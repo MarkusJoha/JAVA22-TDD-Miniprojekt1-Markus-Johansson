@@ -1,6 +1,3 @@
-#hej_hej
-
-
 Jag vill säkerställa att när en triangel med korrekta sidor skapas, så identifieras dess typ korrekt. För detta testar jag olika scenarier: en scalene triangel, en isosceles triangel och en equilateral triangel.
 
 Metoder som är viktiga för detta i testklassen: toStringCheckScalene, toStringCheckIsosceles, toStringCheckEquilateral.
